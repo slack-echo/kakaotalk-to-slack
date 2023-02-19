@@ -1,0 +1,25 @@
+[
+    {"type":"message","subtype":"channel_join","ts":"1234567890.000000","user":"U12345678","text":"<@U12345678> 님이 채널에 참여함"},
+    {"type":"message","subtype":"channel_join","ts":"1234567890.000000","user":"U1234567890","text":"<@U1234567890> 님이 채널에 참여함","inviter":"U12345678"},
+    {"type":"message","subtype":"bot_message","text":"","ts":"1234567890.000000","bot_id":"B0123456789","blocks":[]},
+    {"type":"message","subtype":"bot_message","text":"","ts":"1234567890.000000","username":"app","bot_id":"B12345678","blocks":[]},
+    {
+        "type":"message","text":"","files":[],"upload":true,"user":"U1234567890","display_as_bot":false,"ts":"1234567890.000000",
+        "client_msg_id":"13affddf-db58-48be-ae1b-6639a269b7bf"},
+    {
+        "type":"message","text":"","files":[],"upload":true,"user":"U12345678","display_as_bot":false,"ts":"1234567890.000000","client_msg_id":"7b25eefa-6177-445a-b4bd-9903505a2168",
+        "thread_ts":"1234567890.000000","reply_count":1,"reply_users_count":1,"latest_reply":"1234567890.000000","reply_users":["U1234567890"],
+        "replies":[{"user":"U1234567890","ts":"1234567890.000000"}],"is_locked":false,"subscribed":false
+    },
+    {
+        "client_msg_id":"04c7a1a2-86a5-477d-a982-d0f1f572d996","type":"message","text":"","user":"U12345678","ts":"1234567890.000000","blocks":[],
+        "team":"T1234567890","user_team":"T1234567890","source_team":"T1234567890",
+        "user_profile":{"avatar_hash":"abcdef123456","image_72":"","first_name":"","real_name":"","display_name":"","team":"T1234567890","name":"","is_restricted":false,"is_ultra_restricted":false}
+    },
+    {
+        "client_msg_id":"078dc8b5-e164-4b66-a637-46912fb6124d","type":"message","text":"","user":"U1234567890","ts":"1234567890.000000","blocks":[],
+        "team":"T1234567890","user_team":"T1234567890","source_team":"T1234567890",
+        "user_profile":{"avatar_hash":"123456abcdef","image_72":"","first_name":"","real_name":"","display_name":"","team":"T1234567890","name":"","is_restricted":false,"is_ultra_restricted":false},
+        "attachments":[]
+    }
+]

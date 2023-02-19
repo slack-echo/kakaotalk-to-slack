@@ -1,0 +1,12 @@
+[
+    {"user_id":"U20090214","user_name":"jun.hyeok","date":"1234567890","change_type":"added","app_type":"App Name","app_id":"A20090214"},
+    {"user_id":"U20090214","user_name":"jun.hyeok","date":"1234567890","change_type":"added","app_type":"App Name","app_id":"A20090214","scope":"channels:read,channels:write"},
+    {"user_id":"U20090214","user_name":"jun.hyeok","date":"1234567890","change_type":"added","reason":"user","app_type":"App Name","app_id":"A20090214"},
+    {"user_id":"U20090214","user_name":"jun.hyeok","date":"1234567890","change_type":"added","reason":"user","app_type":"App Name","app_id":"A20090214","scope":"channels:read,channels:write"},
+    {"user_id":"U20090214","user_name":"jun.hyeok","date":"1234567890","change_type":"added","reason":"user","service_id":090214083130,"service_type":"Service Name","scope":"channels:read,channels:write"},
+    {"user_id":"U20090214","user_name":"jun.hyeok","date":"1234567890","change_type":"added","reason":"user","service_id":090214083130,"service_type":"Service Name","scope":"channels:read,channels:write","channel":"C20090214"},
+    {"user_id":"U20090214","user_name":"jun.hyeok","date":"1234567890","change_type":"added","service_id":090214083130,"service_type":"Service Name","scope":"channels:read,channels:write"},
+    {"user_id":"U20090214","user_name":"jun.hyeok","date":"1234567890","change_type":"added","service_id":090214083130,"service_type":"Service Name","scope":"channels:read,channels:write","app_type":"App Name","app_id":"A20090214"},
+    {"user_id":"U20090214","user_name":"jun.hyeok","date":"1234567890","change_type":"added","service_id":090214083130,"service_type":"Service Name","scope":"channels:read,channels:write","channel":"G20090214"},
+    {"user_id":"U20090214","user_name":"jun.hyeok","date":"1234567890","change_type":"added","service_id":090214083130,"service_type":"Service Name","scope":"im:read,im:write","channel":"private","app_type":"App Name","app_id":"A20090214"}
+]

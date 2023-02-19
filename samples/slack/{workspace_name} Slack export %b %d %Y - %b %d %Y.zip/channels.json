@@ -1,0 +1,25 @@
+[
+    {
+        "id": "C12345678",
+        "name": "channel-1",
+        "created": 1234567890,
+        "creator": "U1234678",
+        "is_archived": false,
+        "is_general": false,
+        "members": ["U1234678"],
+        "topic":{"value":"topic is setted","creator":"U1234678","last_set":1234567890},
+        "purpose":{"value":"","creator":"","last_set":0}
+    },
+    {
+        "id": "C1234567890",
+        "name": "channel-2",
+        "created": 1678902345,
+        "creator": "U1234567890",
+        "is_archived": false,
+        "is_general": false,
+        "members": ["U1234678", "U1234567890"],
+        "pins":[{"id":"1678902345.123456","type":"C","created":1678902345,"user":"U1234678","owner":"U1234567890"}],
+        "topic":{"value":"","creator":"","last_set":0},
+        "purpose":{"value":"purpose is setted","creator":"U1234567890","last_set":1678902345}
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "title": "","phone": "","skype": "","real_name": "","real_name_normalized": "","display_name": "","display_name_normalized": "","fields": {},"status_text": "","status_emoji": "","status_emoji_display_info": [],"status_expiration": 0,"avatar_hash": "123456abcdef",
+        "api_app_id": "A0123456789","always_active": true,"image_original": "","is_custom_image": true,"bot_id": "B0123456789",
+        "image_24": "","image_32": "","image_48": "","image_72": "","image_192": "","image_512": "","image_1024": "","status_text_canonical": "","team": "T0123456789"
+    },
+    {
+        "title": "","phone": "","skype": "","real_name": "App Name","real_name_normalized": "App Name","display_name": "","display_name_normalized": "","fields": {},"status_text": "","status_emoji": "","status_emoji_display_info": [],"status_expiration": 0,"avatar_hash": "1a2b3c4d5e6f",
+        "api_app_id": "A0123456789","always_active": false,"image_original": "","is_custom_image": true,"bot_id": "B0123456789",
+        "first_name": "App","last_name": "Name",
+        "image_24": "","image_32": "","image_48": "","image_72": "","image_192": "","image_512": "","image_1024": "","status_text_canonical": "","team": "T0123456789"
+    },
+    {
+        "title": "","phone": "","skype": "","real_name": "","real_name_normalized": "","display_name": "","display_name_normalized": "","fields": {},"status_text": "","status_emoji": "","status_emoji_display_info": [],"status_expiration": 0,"avatar_hash": "12345abcde67",
+        "email": "id@exapmle.com",
+        "image_24": "","image_32": "","image_48": "","image_72": "","image_192": "","image_512": "","status_text_canonical": "","team": "T0123456789"
+    },
+    {
+        "title": "","phone": "","skype": "","real_name": "","real_name_normalized": "","display_name": "","display_name_normalized": "","fields": {},"status_text": "","status_emoji": "","status_emoji_display_info": [],"status_expiration": 0,"avatar_hash": "a1b2c3d4e5f6",
+        "image_original": "","is_custom_image": true,
+        "email": "id@exapmle.com",
+        "image_24": "","image_32": "","image_48": "","image_72": "","image_192": "","image_512": "","image_1024": "","status_text_canonical": "","team": "T0123456789"
+    },
+    {
+        "title": "","phone": "","skype": "","real_name": "UserName","real_name_normalized": "UserName","display_name": "","display_name_normalized": "","fields": {},"status_text": "","status_emoji": "","status_emoji_display_info": [],"status_expiration": 0,"avatar_hash": "abcde12345fg",
+        "email": "id@exapmle.com",
+        "first_name": "UserName","last_name": "",
+        "image_24": "","image_32": "","image_48": "","image_72": "","image_192": "","image_512": "","status_text_canonical": "","team": "T0123456789"
+    },
+    {
+        "title": "","phone": "","skype": "","real_name": "User Name","real_name_normalized": "User Name","display_name": "","display_name_normalized": "","fields": {},"status_text": "","status_emoji": "","status_emoji_display_info": [],"status_expiration": 0,"avatar_hash": "abcdef123456",
+        "image_original": "","is_custom_image": true,
+        "email": "id@exapmle.com",
+        "first_name": "User","last_name": "Name",
+        "image_24": "","image_32": "","image_48": "","image_72": "","image_192": "","image_512": "","image_1024": "","status_text_canonical": "","team": "T0123456789"
+    }
+    
+]

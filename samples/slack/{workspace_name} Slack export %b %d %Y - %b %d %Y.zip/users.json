@@ -1,0 +1,15 @@
+[
+    {
+        "id": "U0123456789","team_id": "T1234567890","name": "deleted-user","deleted": true, 
+        "profile":{}, 
+        "is_bot": false,"is_app_user": false,"updated": 1234567890
+    },
+    {
+        "id": "U1234567890","team_id": "T1234567890","name": "activated-user","deleted": false,"color": "a1b2c3","real_name": "User Name","tz": "Asia\/Seoul","tz_label": "Korea Standard Time","tz_offset": 32400, 
+        "profile":{},
+        "is_admin": false,"is_owner": false,"is_primary_owner": false,"is_restricted": false,"is_ultra_restricted": false,"is_bot": false,"is_app_user": false,"updated": 1234567890,"is_email_confirmed": true,"who_can_share_contact_card": "EVERYONE"
+    }
+]
+
+
+
