@@ -1,0 +1,10 @@
+[
+    {
+        "id":"U0123456789","team_id":"",
+        "name":"user","deleted":true,
+        "profile":{
+            "title":"","phone":"","skype":"","real_name":"","real_name_normalized":"","display_name":"","display_name_normalized":"","fields":{},"status_text":"","status_emoji":"","status_emoji_display_info":[],"status_expiration":0,"avatar_hash":"",
+            "email":"","image_24":"","image_32":"","image_48":"","image_72":"","image_192":"","image_512":"","status_text_canonical":"","team":""
+        },"is_bot":false,"is_app_user":false,"updated":0
+    }
+]
