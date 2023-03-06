@@ -1,0 +1,18 @@
+{group_name} 님과 카카오톡 대화
+저장한 날짜 : %Y-%m-%d %H:%M:%S
+
+--------------- %A, %B %-d, %Y ---------------
+[사용자A] [%-H:%m %p] https://arxiv.org/search/cs...
+--------------- Saturday, September 30, 202x ---------------
+[사용자A] [9:09 PM] {long text line1
+line2
+line3
+line4
+line5}
+--------------- Sunday, October 1, 202x ---------------
+[사용자A] [10:10 AM] 사진
+[사용자B] [1:01 PM] 톡게시판 '투표 종료': {poll_title}
+[시용자C] [2:02 PM] {text}
+[사용자D] [4:04 PM] {long text line1
+line2}
+[사용자A] [7:59 PM] 사진 2장
